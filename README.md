@@ -1,6 +1,6 @@
 👋 Hi, I'm Varun
 
-🎯 Passionate Developer | Java | Flutter | SQL | Dart
+🎯 Passionate Developer | Java | Flutter | SQL | Dart | Oracle APEX | JavaScript
 
 💻 I specialize in building robust back-end systems with Java, creating intuitive and responsive mobile and web applications using Flutter, and managing complex databases with SQL.
 
